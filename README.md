@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sephyroth1
 - 👀 I’m passionate about Programming
-- 🌱 I’m currently doing my undergraduate bachelor's degree
+- 🌱 I’m currently doing my bachelor's degree
 - I wil graduate in 2026, with a couple of projects under my belt!
 
 <!---
